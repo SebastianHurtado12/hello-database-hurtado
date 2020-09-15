@@ -5,7 +5,7 @@ const User = require('./models/User');
 const db = 'mongodb+srv://hellodb:sebastianhurtado12$@cluster0.unqdt.mongodb.net/hellodb?retryWrites=true&w=majority';
 
 // const db = 'mongodb://localhost/hellodb';
-
+  
 const users = [
     {
       id: 1,
